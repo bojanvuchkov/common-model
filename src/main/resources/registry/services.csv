@@ -1,0 +1,13 @@
+name	port	prod-deploy	repository	dev-deploy
+raspredelba	9001	1	https://gitlab.finki.ukim.mk/wp/raspredelba	1
+akreditacii	9002	1	https://gitlab.finki.ukim.mk/wp/akreditacii	1
+molbi	9003	0	https://gitlab.finki.ukim.mk/wp/molbi	1
+diplomski	9004	0	https://gitlab.finki.ukim.mk/wp/diplomski	1
+magisterski	9005	0	https://gitlab.finki.ukim.mk/wp/magisterski	1
+projects	9006	0	https://gitlab.finki.ukim.mk/wp/projects	0
+konsultacii	9007	0	https://gitlab.finki.ukim.mk/wp/konsultacii	0
+anketi	9008	0	https://gitlab.finki.ukim.mk/wp/anketi	1
+dosie	9009	0	https://gitlab.finki.ukim.mk/wp/dosie	1
+results-management	9010	0	https://gitlab.finki.ukim.mk/wp/results-management	1
+exam-schedule	9011	0	https://gitlab.finki.ukim.mk/wp/exam-schedule	1
+deklaracii	9012	0	https://gitlab.finki.ukim.mk/wp/deklaracii	0
